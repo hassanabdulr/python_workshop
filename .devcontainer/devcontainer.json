@@ -24,8 +24,8 @@
     }
   },
 
-  "postCreateCommand": "pip install --user -r requirements.txt",
-
+  "postCreateCommand": "python -m pip install --upgrade pip && pip install -r requirements.txt && python -m ipykernel install --user --name=python_class --display-name 'Python (python-class)'",
+  "postStartCommand": "python -m ipykernel install --user --name=python_class --display-name 'Python (python-class)' || true",
   "features": {
     "ghcr.io/devcontainers/features/python:1": {
       "version": "3.11"
