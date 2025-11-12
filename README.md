@@ -118,11 +118,11 @@ All packages are pre-installed in the Codespace. The workshop uses:
 - **jupyter** (>=1.0.0): Interactive notebooks
 
 
-## 📝 Sample Data Note
+## Sample Data Note
 
 The dataset we are using for this course has been generated randomly using different python scripts. All data is simulated and not representative of any real or actual dataset
 
-## 🆘 Getting Help
+## Getting Help
 
 - **Official Documentation**:
   - [Python Docs](https://docs.python.org/3/)
