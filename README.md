@@ -1,6 +1,4 @@
-# Introduction to Python Workshop
-
-Welcome to the **Introduction to Python** SDC workshop This session will guide you through the fundamentals of Python programming with a focus on data processing.
+# Introduction to Python Workshop (SDC)
 
 ## Workshop Overview
 
