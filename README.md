@@ -26,7 +26,7 @@ This workshop is designed for beginners who want to learn Python for data analys
 - Importing modules and packages
 - Introduction to NumPy (numerical computing)
 - Introduction to Pandas (data manipulation)
-- Introduction to Scikit-learn (machine learning)
+- Introduction to Scikit-learn (scientific computing)
 
 ### Part 4: Pandas for Data Manipulation
 - Loading data from CSV, TSV, and TXT files
