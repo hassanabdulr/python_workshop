@@ -1,4 +1,4 @@
-# Introduction to Python Workshop (SDC)
+# Introduction to the Krembil Centre for Neuroinformatics (KCNI) and the Scientific Computing Working Group (SCWG) Python Workshop
 
 ## Workshop Overview
 
