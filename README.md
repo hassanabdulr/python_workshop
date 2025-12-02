@@ -137,6 +137,12 @@ The dataset we are using for this course has been generated randomly using diffe
    - Data visualization with Plotly
    - Web scraping with BeautifulSoup
 
+## Free Beginner Python Resources
+
+- [HarvardX: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)
+- [Google Crash Course on Python](https://www.coursera.org/learn/python-crash-course?irclickid=1iBwDgQ-NxycWZ5TQtWBXSL2UkpTg9V%3A8RH-zQ0&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=6450111&utm_content=b2c&utm_campaignid=GoncaloML&utm_term=14726_SC_3118153_#modules)
+- [Corey Schafer Pandas Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+
 ## License
 
 This workshop material is provided for educational purposes. Feel free to use and modify for your learning.
